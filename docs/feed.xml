@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Los rostros grabados de La Resistencia</title>
+      <description>méxico – Desinformémonos — https://desinformemonos.org/los-rostros-grabados-de-la-resistencia/</description>
+      <link>https://desinformemonos.org/los-rostros-grabados-de-la-resistencia/</link>
+      <guid isPermaLink="false">f86f2b8c2305496b</guid>
+      <pubDate>Sun, 27 Sep 2026 17:07:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/desinfomex/episodios/f86f2b8c2305496b.mp3" length="5782896" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cenotes y abejas, posibles sujetos de derechos: una vía para frenar a granjas e inmobiliarias</title>
       <description>méxico – Desinformémonos — https://desinformemonos.org/cenotes-y-abejas-posibles-sujetos-de-derechos-una-via-para-frenar-a-granjas-e-inmobiliarias/</description>
       <link>https://desinformemonos.org/cenotes-y-abejas-posibles-sujetos-de-derechos-una-via-para-frenar-a-granjas-e-inmobiliarias/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">f0b805edbfb820d7</guid>
       <pubDate>Sat, 19 Sep 2026 15:59:07 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/desinfomex/episodios/f0b805edbfb820d7.mp3" length="1311408" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Campaña gráfica en apoyo al movimiento ¡Aquí no! en Ohuira</title>
-      <description>méxico – Desinformémonos — https://desinformemonos.org/campana-grafica-en-apoyo-al-movimiento-aqui-no-en-ohuira/</description>
-      <link>https://desinformemonos.org/campana-grafica-en-apoyo-al-movimiento-aqui-no-en-ohuira/</link>
-      <guid isPermaLink="false">7a7d7762acf9caef</guid>
-      <pubDate>Fri, 18 Sep 2026 16:36:10 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfomex/episodios/7a7d7762acf9caef.mp3" length="224928" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
